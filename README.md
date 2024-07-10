@@ -1,4 +1,4 @@
-# flutter_app
+# Myntra_hackthon
 
 A new Flutter project.
 
