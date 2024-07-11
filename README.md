@@ -93,14 +93,20 @@ To use the application:
 4. Earn reward points by sharing product links that lead to purchases.
 5. Use earned reward points for future purchases on Myntra.
 
+## 📄 Terms and Conditions
+
+- To access referral options within groups or chats, you must have a business account on Myntra.
+- A business account necessitates a minimum of 1,000 followers.
+
+
 <h2>🤝 Contributing</h2>
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
 <h2>🛡️ License</h2>
@@ -109,7 +115,7 @@ This project is licensed under the Inside Affiliate App.
 
 <h2>📄 Presentation</h2>
 
-For more details on our approach and implementation plan, you can view the presentation [here](https://github.com/nidhidhinoja/Myntra_hackathon/blob/main/presentation.pdf).
+For more details on our approach and implementation plan, you can view the presentation [here](https://www.canva.com/design/DAGKkWODO-w/bEhvp35_201TRSpH0xchoA/edit?utm_content=DAGKkWODO-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 <h2>👥 Team Members</h2>
 
@@ -121,6 +127,6 @@ Team Members:
 * Khushali Nandani
 
 <h2>Contact</h2>
-nidzdhinoja2004@gmail.com
+Priiyal04@gmail.com
 
-Project Link: [https://github.com/nidhidhinoja/Myntra_hackathon](https://github.com/nidhidhinoja/Myntra_hackathon)
+Project Link: https://github.com/priyaladesara/myntra_hackerramp
